@@ -1,0 +1,12 @@
+number0=5
+number1=10
+print(number0+number1)
+number0=5
+number1=10
+print(number1-number0)
+number0=5
+number1=10
+print(number0*number1)
+number0=5
+number1=10
+print(number1/number0)
