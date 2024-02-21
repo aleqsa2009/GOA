@@ -32,4 +32,4 @@ print(name + " " +surname)
 
 print(name + " " + str(age))
 
-print(name, surname, "aris",age,"wlis", heigt, "aris misi sumagle" )
+print(name, surname, "aris",age,"wlis", heigt, "aris misi simagle" )

@@ -45,7 +45,7 @@ forward(200)
 end_fill()
 
 penup()
-goto(50, 50)
+goto(50,50)
 pendown()
 
 color("brown")
