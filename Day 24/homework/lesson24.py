@@ -15,6 +15,7 @@
 # print(result)
 
 # დავალება_3
+
 # def square_area(length,width):
 #     return length * width
 
@@ -49,4 +50,7 @@
 #     for i in arr:
 #         if i > 0:
 #             sum += i
-#     return sum
+#     return sum 
+
+
+    
