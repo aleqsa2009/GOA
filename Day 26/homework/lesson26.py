@@ -10,7 +10,7 @@
 # result = num_list(num0)
 # print("some of the even index: ",result)
 
-#დავალება 2
+# # დავალება 2
 
 # def ox_ra_tqvi_tyeshela_oh (tyeshela):
 #     if tyeshela % 2 ==0 :
