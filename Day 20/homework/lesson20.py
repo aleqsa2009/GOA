@@ -7,17 +7,17 @@
 #     print("this word is not a palintrom")
 
 #დავალება_2
-# num1 = [int(input("enter a number:" + str(i +1) + ":"))for i in range(5)]
-# new_list = []
+num1 = [int(input("enter a number:" + str(i +1) + ":"))for i in range(5)]
+new_list = []
 
-#for num in num1:
-#     if num1.count(num) == 2 and new_list.count(num) == 0:
-#         new_list.append(num)
+for num in num1:
+    if num1.count(num) == 2 and new_list.count(num) == 0:
+        new_list.append(num)
 
-# if new_list:
-#     print(new_list)
-# else:
-#     print("list is empty")
+if new_list:
+    print(new_list)
+else:
+    print("list is empty")
 
 #დავალება_3
 # word_list1 = ["hello","this","is","best","academy"]
